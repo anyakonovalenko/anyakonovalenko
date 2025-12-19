@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### *Hi there* 👋 
+Researcher with freshly defended PhD and software engineering experience. Seeking challenging ML research projects that offer opportunities for accelerated engineering growth.
 
 [![Thesis Badge](https://img.shields.io/badge/Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link(https://drive.google.com/file/d/1OqtolX2cIyV8FvidpgYHL5vrBxxJP87d/view?usp=sharing))](https://drive.google.com/file/d/1OqtolX2cIyV8FvidpgYHL5vrBxxJP87d/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anna@zinko.org)](mailto:anna@zinko.org)
