@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### *Hi there* 👋 
+	
+
+[![Thesis Badge](https://img.shields.io/badge/Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link(https://drive.google.com/file/d/1OqtolX2cIyV8FvidpgYHL5vrBxxJP87d/view?usp=sharing))](https://drive.google.com/file/d/1OqtolX2cIyV8FvidpgYHL5vrBxxJP87d/view?usp=sharing)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anna@zinko.org)](mailto:anna@zinko.org)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-konovalenko/)](https://www.linkedin.com/in/anna-konovalenko/)
+[![ORCiD](https://img.shields.io/badge/ORCiD-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-0802-4141)](https://orcid.org/0000-0002-0802-4141)
+<!--
+-->
+
+	
+#### My interests are:
+* Machine learning | Deep learning | Reinforcement learning
+* Optimization | Metaheuristics
+
+	
+
