@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anna@zinko.org)](mailto:anna@zinko.org)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-konovalenko/)](https://www.linkedin.com/in/anna-konovalenko/)
 [![ORCiD](https://img.shields.io/badge/ORCiD-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-0802-4141)](https://orcid.org/0000-0002-0802-4141)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square&link=https://scholar.google.com/citations?user=OV16JyQAAAAJ&hl=en)](https://scholar.google.com/citations?user=OV16JyQAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?color=white&logo=google-scholar&style=flat-square&link=https://scholar.google.com/citations?user=OV16JyQAAAAJ&hl=en)](https://scholar.google.com/citations?user=OV16JyQAAAAJ&hl=en)
 <!--
 -->
 
