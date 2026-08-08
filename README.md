@@ -1,11 +1,11 @@
-## 👋
+## 👋 
 
 <!--
 **anyakonovalenko/anyakonovalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Anya! I hold a PhD in Operations Research and specialize in applying ML to complex discrete optimization problems.
+
+Feel free to reach out.
+
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white&link=https://anyakonovalenko.github.io/about/)](https://anyakonovalenko.github.io/about/)
 [![Thesis Badge](https://img.shields.io/badge/PhD%20Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link(https://drive.google.com/file/d/1OqtolX2cIyV8FvidpgYHL5vrBxxJP87d/view?usp=sharing))](https://drive.google.com/file/d/1OqtolX2cIyV8FvidpgYHL5vrBxxJP87d/view?usp=sharing)
