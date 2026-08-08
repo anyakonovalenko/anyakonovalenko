@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 <!--
 **anyakonovalenko/anyakonovalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Researcher with freshly defended PhD and software engineering experience. Seeking challenging ML research projects that offer opportunities for accelerated engineering growth.
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white&link=https://anyakonovalenko.github.io/about/)](https://anyakonovalenko.github.io/about/)
 [![Thesis Badge](https://img.shields.io/badge/PhD%20Thesis-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link(https://drive.google.com/file/d/1OqtolX2cIyV8FvidpgYHL5vrBxxJP87d/view?usp=sharing))](https://drive.google.com/file/d/1OqtolX2cIyV8FvidpgYHL5vrBxxJP87d/view?usp=sharing)
